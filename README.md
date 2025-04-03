@@ -108,8 +108,9 @@ Load CSV Files → Merge & Label Data → Preprocessing (Lowercase, Remove Punct
 ## Contributors
 
 - **Prabesh Rai** – [raiprabesh775@gmail.com](mailto:raiprabesh775@gmail.com)  
-- **Amisha Shrestha** – [starning43@gmail.com](mailto:starning43@gmail.com)  
-- **Pramila Poudel** – [poudelpramila03@gmail.com](mailto:poudelpramila03@gmail.com)
+- **Amisha Shrestha** – [Amisha-777](https://github.com/Amisha-777)  
+- **Pramila Poudel** – [pramilapoudel023](https://github.com/pramilapoudel023)
+
 
 ---
 
